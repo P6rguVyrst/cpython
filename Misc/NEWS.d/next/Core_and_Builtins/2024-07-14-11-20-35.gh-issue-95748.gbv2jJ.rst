@@ -1,0 +1,1 @@
+logging.captureWarnings(True) to show object allocation
